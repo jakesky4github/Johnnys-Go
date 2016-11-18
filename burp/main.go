@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("hello world")
-	fmt.Println("good day git")
+	fmt.Println("good day git for today!!")
 }
